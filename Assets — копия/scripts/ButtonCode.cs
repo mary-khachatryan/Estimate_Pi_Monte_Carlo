@@ -1,0 +1,18 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class ButtonCode : MonoBehaviour
+{
+    
+    public void ResScene()
+    {
+        SceneManager.LoadScene("ResultScene");
+
+    }
+    public void PlayGame()
+    {
+        SceneManager.LoadScene("GameScene");
+    }
+}
