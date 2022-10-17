@@ -62,9 +62,4 @@ public class random_generator : MonoBehaviour
    
 }
 
-//mecacnel chapery //
-//guynery nuyny linum//
-// sheghman ////
-//caval
-// align
 
